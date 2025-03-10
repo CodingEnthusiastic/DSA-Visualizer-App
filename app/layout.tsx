@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Coder Army Application',
-  description: 'Created with v0',
+  description: 'By Rishabh',
   generator: 'v0.dev',
 }
 
