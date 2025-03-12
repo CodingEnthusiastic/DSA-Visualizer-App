@@ -64,7 +64,7 @@ export default function Header() {
                 { name: "Home", id: "home" },
                 { name: "Algorithms", id: "algorithms" },
                 { name: "Streak", id: "streak" },
-                { name: "About", id: "about" },
+                { name: "AlgoRace", id: "about" },
               ].map((item) => (
                 <li key={item.id}>
                   <button
